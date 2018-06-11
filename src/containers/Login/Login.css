@@ -1,0 +1,32 @@
+.loginContainer {
+  margin: 20% 25% 10%;
+  width: 40%;
+  border:2px solid #f2f2f2;
+}
+.loginTitle {
+  padding: 8px 32px;
+  border-bottom: 1px solid #f2f2f2;
+}
+.loginInner {
+  padding: 8px 32px 32px;
+}
+.loginFooter {
+  padding: 8px 32px;
+  display: flex;
+  flex-wrap: wrap;
+  background: #f2f2f2;
+}
+.btnContainer {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+}
+.footerText {
+  width: 60%;
+}
+.cancel {
+  margin: 20px;
+}
+.submit {
+  background-color: aqua;
+}

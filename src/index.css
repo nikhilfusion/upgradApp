@@ -1,0 +1,14 @@
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+button:active {
+    border: none;
+    outline: 0 !important;
+}
+a:hover {
+    text-decoration: none;
+    color: #000;
+}

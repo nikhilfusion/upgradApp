@@ -1,0 +1,41 @@
+.itemContainer {
+  display: flex;
+  padding-top: 10px;
+}
+.itemLhs {
+  min-width: 50px;
+  padding: 0 10px;
+}
+.itemRhs {
+  display: flex;
+  border: 1px solid #f2f2f2;
+  width: 100%;
+  border-radius: 2px 2px;
+  box-shadow: 0 2px 6px 0 rgba(0,0,0,.3);
+}
+.slNoContainer {
+  width: 70px;
+  background: #f2f2f2;
+  text-align: center;
+  padding: 20px 10px;
+}
+.detailsContainer {
+  width: 70%;
+  border-right: 1px solid #fafafa;
+  padding: 20px 16px;
+}
+.typeContainer {
+  background: #f2f2f2;
+  width: 30%;
+  padding: 20px;
+  text-align: left;
+  justify-content: space-between;
+  display: flex;
+}
+.typeTitle {
+  text-transform: uppercase;
+}
+.username {
+  padding: 0 20px;
+  text-transform: capitalize;
+}
